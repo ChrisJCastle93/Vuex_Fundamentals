@@ -39,6 +39,16 @@
       "date": "September 15, 2024",
       "time": "12:00",
       "organizer": "Adam Jahr"
+    },
+    {
+      "id": "06711d68-26d7-48e2-b611-a2ae47512405",
+      "category": "nature",
+      "title": "test",
+      "description": "test",
+      "location": "test",
+      "date": "test",
+      "time": "test",
+      "organizer": "Adam Jahr"
     }
   ]
 }
